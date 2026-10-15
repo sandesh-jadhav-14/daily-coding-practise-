@@ -1,0 +1,22 @@
+'''22. Number Repetition Pattern
+Write a Python program to print the following pattern using only one loop:
+1
+22
+333
+4444
+55555
+666666
+'''
+
+# row=1
+# count=0
+# num=1
+#
+# for i in range(1,22):
+#     print(row,end=" ")
+#     count=count+1
+#
+#     if count==row:
+#         print()
+#         row=row+1
+#         count=0
